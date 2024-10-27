@@ -24,8 +24,8 @@
     },
     {
       "name": "treble_arm64_bgN",
-      "size": "1341129884",
-      "url": "https://github.com/ponces/treble_aosp/releases/download/v2024.08.16/aosp-arm64-ab-gapps-14.0-20240816.img.xz"
+      "size": "134000",
+      "url": "https://github.com/Dityay/PireDroid/releases/download/v1.11/PireDroid_1.11-test.zip"
     },
     {
       "name": "treble_arm64_bgN-vndklite",
